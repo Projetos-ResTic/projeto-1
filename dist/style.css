@@ -40,7 +40,6 @@ body {
 }
 
 /* Input e botões de pastas */
-
 input {
     outline: none;
 }
@@ -94,7 +93,7 @@ li:hover {
     background-color: #f8bbd0;
 }
 
-/* Conteúdo principal */
+/* Conteúdo principal*/
 .main-content {
     flex: 1;
     padding: 20px;
@@ -133,7 +132,7 @@ li:hover {
     background-color: #d81b60;
 }
 
-/* Lista de tarefas */
+/* Lista de tarefas*/
 .task-list {
     list-style: none;
     padding: 0;
