@@ -198,7 +198,7 @@ li:hover {
 
 @media (max-width: 1024px) {
     .container {
-        width: 100%;
+        width: 90%;
         padding: 30px;
         height: auto;
     }
@@ -210,51 +210,67 @@ li:hover {
         box-shadow: inset 0 -4px 6px rgba(0, 0, 0, 0.1);
     }
 
-    .main-content {
-        padding: 10px;
-    }
-
-    .task-input-container {
-        flex-direction: column;
+    
+    .folder-input button {
+        font-size: 0.75rem;
     }
 }
 
 
 @media (max-width: 768px) {
     .container {
-        width: 80%;
+        align-items: center;
+        width: 90%;
         padding: 30px;
         height: auto;
     }
 
-    .sidebar {
-        padding: 10px;
-    }
-
     .task-input-container {
-        
-        gap: 5px;
+        flex-direction: column;
     }
 
     .task-list li {
         font-size: 0.875rem;
     }
+
+    .folder-input button {
+        font-size: 0.75rem;
+    }
+
+    
+    .folder-input input {    
+        padding: 5px;
+    }
+
+
+    .complete-btn, .delete-btn {
+        font-size: 0.80rem;
+        padding: 3px 7px;
+        display: flex;
+    }
+
+
+    .task-list li {
+        font-size: 0.75rem;
+    }
+
 }
 
 
 @media (max-width: 480px) {
     body {
-        font-size: 14px;
+        font-size: 10px;
+    }
+
+    .container {
+        width: 90%;
+        height: 90%;
+        flex-direction: column;
+        align-items: center;
     }
 
     .sidebar {
-        
-        border-bottom: 1px solid #e5e5e5;
         box-shadow: inset 0 -4px 6px rgba(0, 0, 0, 0.1);
-    }
-
-    .main-content {
-        padding: 5px;
     }
 
     .task-input-container {
@@ -264,7 +280,7 @@ li:hover {
 
     .task-list li {
         font-size: 0.75rem;
-        padding: 5px;
+        
     }
 
     .complete-btn, .delete-btn {
