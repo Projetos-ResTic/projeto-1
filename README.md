@@ -17,6 +17,7 @@ Esta aplicação é uma lista de tarefas interativa, permitindo aos usuários or
 - **LocalStorage**: Armazenamento local de dados.
 
 ## 🛠 Instruções de Execução
+Clonar o Repositório:  https://github.com/Projetos-ResTic/projeto-1.git
 
 Abra o arquivo HTML: Navegue até a pasta do projeto e abra o arquivo `index.html` em seu navegador.
 
