@@ -6,7 +6,7 @@
 Esta aplicação é uma lista de tarefas interativa, permitindo aos usuários organizar e gerenciar suas tarefas diárias de forma eficiente. Os usuários podem adicionar e excluir pastas e tarefas, marcar tarefas como concluídas e ver todas as suas tarefas organizadas por pastas. As tarefas e pastas são armazenadas localmente no navegador, garantindo que os dados sejam preservados mesmo após a atualização da página.
 
 ![projeto1](https://github.com/user-attachments/assets/3adaf785-3e4c-4799-ab8d-c7f47309b0c0)
-![dem-respos](https://github.com/user-attachments/assets/108ca554-27f9-4823-b51e-620d70b5f020)
+
 
 
 ## 🚀 Tecnologias Utilizadas
@@ -17,6 +17,7 @@ Esta aplicação é uma lista de tarefas interativa, permitindo aos usuários or
 - **LocalStorage**: Armazenamento local de dados.
 
 ## 🛠 Instruções de Execução
+Clonar o Repositório:  https://github.com/Projetos-ResTic/projeto-1.git
 
 Abra o arquivo HTML: Navegue até a pasta do projeto e abra o arquivo `index.html` em seu navegador.
 
