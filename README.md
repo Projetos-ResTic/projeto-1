@@ -23,11 +23,13 @@ Abra o arquivo HTML: Navegue até a pasta do projeto e abra o arquivo `index.htm
 
 ## 🔍 Verifique o Funcionamento da Aplicação
 
+- **OBS**: Não é possivel adicionar uma tarefa sem criar uma pasta primeiro
 - **Adicionar Pastas**: Digite o nome de uma nova pasta no campo "Digite o nome da pasta" e clique em "Adicionar Pasta".
 - **Selecionar Pastas**: Clique em uma pasta na lista para visualizar e gerenciar suas tarefas.
 - **Adicionar Tarefas**: Digite uma nova tarefa no campo "Digite uma tarefa" e clique em "Adicionar Tarefa".
 - **Completar Tarefas**: Clique em "Concluir" ao lado da tarefa para marcá-la como concluída.
 - **Excluir Pastas e Tarefas**: Clique no botão "Excluir" ao lado da pasta ou tarefa para removê-los.
+
 
 ## 💾 Armazenamento de Dados
 
